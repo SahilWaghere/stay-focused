@@ -1,1 +1,1 @@
-**# Stay Focused**
+# Stay Focused
